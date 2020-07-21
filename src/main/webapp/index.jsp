@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Hello Mahendra!
+          Deploying a war file has done successfully</h2>
 </body>
 </html>
